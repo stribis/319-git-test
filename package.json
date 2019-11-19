@@ -1,0 +1,29 @@
+{
+  "name": "git_intro",
+  "version": "1.0.0",
+  "description": "git intro package",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stribis/319-git-test.git"
+  },
+  "keywords": [
+    "git",
+    "319",
+    "sae",
+    "wdd"
+  ],
+  "author": "MH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stribis/319-git-test/issues"
+  },
+  "homepage": "https://github.com/stribis/319-git-test#readme"
+}
